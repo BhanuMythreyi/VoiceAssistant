@@ -1,0 +1,5 @@
+installed packages:
+pyttsx3; syntax: pip install pyttsx3
+speech_recognition; syntax: pip install speechRecognition
+wikipedia; syntax: pip install wikipedia
+PyAudio; syntax: pip install pipwin --> pipwin install pyaudio
